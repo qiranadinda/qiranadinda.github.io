@@ -1,0 +1,16 @@
+.kotak-ijo {
+	background-color: green;
+	width: 200px;
+}
+
+.kotak-merah {
+	background-color: red;
+	width: 200px;
+	text-align: center;
+	padding: 150px;
+	color: white;
+}
+
+body {
+	display: inline-block;
+}
